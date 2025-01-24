@@ -42,9 +42,13 @@ Vector spaces can be visualized as an n-dimensional geometric space where vector
 * **Linear map** — Mapping between two vector spaces $T: V_{1} \rightarrow V_{2}$ such that the mapping preserves vector additions and scalar multiplication. Also called a linear transformation in the context of linear algebra.
 	* **Vector addition**: $T(u+v) = T(u)+T(v)$ where $u,v$ are vectors.
 	* **Scalar multiplication**: $T(k \cdot v) = k \cdot T(v)$, where $v$ is a vector and $k$ is a scalar in a [field](Mathematics/Mathematics%20Overview.md#Fields).
-* **Matrices** — A way to represent linear transformations.
-	* Each row of a matrix corresponds to the linear combination of the input vectors for the following row in the output vector (or matrix). Each column in the input vector (or matrix) corresponds to the row in the output vector (or matrix). That is:
-	$$
+
+### Matrices
+
+* A way to represent linear transformations.
+* Each row of a matrix corresponds to the linear combination of the input vectors for the following row in the output vector (or matrix). Each column in the input vector (or matrix) corresponds to the row in the output vector (or matrix). That is:
+
+$$
 	\begin{bmatrix}
 	a & b & c \\
 	d & e & f \\
@@ -63,14 +67,15 @@ Vector spaces can be visualized as an n-dimensional geometric space where vector
 	... & ... \\
 	... & ...
 	\end{bmatrix}	
-	$$
-	* Can be composed with one another to create a resulting product matrix. Operations are performed from right to left. E.g. the composition of matrices $ABC$ implies first multiplying matrix $B$ with $C$ and then multiplying the product with $A$. Matrix multiplication is associative: $A(BC) = (AB)C$. It is not commutative however — for matrices $A$ and $B$, $AB \neq BA$.
-	* Non-square matrices transform vectors (or matrices) to a higher or lower dimensional space — depending on the number of rows and columns of the transformation matrix and its rank.
-	* Geometrically, linear transformations preserve the origin (zero vector is unaffected) and parallel lines (all vectors are scaled linearly). Linear transformations can be visualized as scaling the geometric space with a linear combination of the row vectors of the transformation matrix.
+$$
+
+* Can be composed with one another to create a resulting product matrix. Operations are performed from right to left. E.g. the composition of matrices $ABC$ implies first multiplying matrix $B$ with $C$ and then multiplying the product with $A$. Matrix multiplication is associative: $A(BC) = (AB)C$. It is not commutative however — for matrices $A$ and $B$, $AB \neq BA$.
+* Non-square matrices transform vectors (or matrices) to a higher or lower dimensional space — depending on the number of rows and columns of the transformation matrix and its rank.
+* Geometrically, linear transformations preserve the origin (zero vector is unaffected) and parallel lines (all vectors are scaled linearly). Linear transformations can be visualized as scaling the geometric space with a linear combination of the row vectors of the transformation matrix.
 
 ![graphic to show matrix multiplication geometrically](matrix-transformation.png)
 
-## Matrix Properties
+### Matrix Properties
 
 * **Rank** — The number of dimensions of the vector space spanned by the column (or row) vectors of a matrix. The row rank of matrix is equal to the column rank of a matrix.
 
