@@ -21,3 +21,7 @@ A list of resources and/or random interesting things.
 * [Jose M Sallán](https://jmsallan.netlify.app/)
 * [Aatish Bhatia](https://aatishb.com/articles/)
 * [Nathan](https://nathanrooy.github.io/)
+
+---
+
+This page is a part of [Home](index.md).
