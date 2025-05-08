@@ -7,6 +7,7 @@ A list of resources and/or random interesting things.
 * [Grant Sanderson](https://www.3blue1brown.com/)
 * [Michael Nielsen](https://michaelnielsen.org/)
 * [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+* [Artem Kirsanov](https://www.youtube.com/c/ArtemKirsanov/)
 * [Reducible](https://www.youtube.com/c/Reducible/)
 * [Freya Holmér](https://acegikmo.com/)
 * [lcamtuf](https://lcamtuf.substack.com/archive)
