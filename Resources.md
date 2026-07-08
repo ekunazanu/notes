@@ -25,6 +25,7 @@ A list of resources and/or random interesting things.
 * [Nathan](https://nathanrooy.github.io/)
 * [Ayan Das](https://ayandas.me/)
 * [David R Hagen](https://drhagen.com/)
+* [Manu Martínez-Almeida](https://manualmeida.dev/)
 
 ---
 
