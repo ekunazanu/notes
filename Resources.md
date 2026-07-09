@@ -12,6 +12,7 @@ A list of resources and/or random interesting things.
 * [Freya Holmér](https://acegikmo.com/)
 * [lcamtuf](https://lcamtuf.substack.com/archive)
 * [Max Slater](https://thenumb.at/)
+* [Gilles Castel](https://castel.dev/notes)
 * [Bartosz Ciechanowski](https://ciechanow.ski/archives/)
 * [The Pudding](https://pudding.cool/)
 * [Mike Bostock](https://bost.ocks.org/mike/)
