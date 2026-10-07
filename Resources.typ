@@ -1,0 +1,32 @@
+#import "template.typ": template
+#show: template
+
+A list of resources and/or random interesting things.
+
+- #link("https://explorabl.es/")[Explorables]
+- #link("https://pair.withgoogle.com/explorables/")[Google AI Explorables]
+- #link("http://colah.github.io/")[Christopher Olah]
+- #link("https://distill.pub/")[Distill]
+- #link("https://www.3blue1brown.com/")[Grant Sanderson]
+- #link("https://michaelnielsen.org/")[Michael Nielsen]
+- #link("https://udlbook.github.io/udlbook/")[Understanding Deep Learning]
+- #link("https://www.youtube.com/c/ArtemKirsanov/")[Artem Kirsanov]
+- #link("https://www.youtube.com/c/Reducible/")[Reducible]
+- #link("https://acegikmo.com/")[Freya Holmér]
+- #link("https://lcamtuf.substack.com/archive")[lcamtuf]
+- #link("https://thenumb.at/")[Max Slater]
+- #link("https://castel.dev/notes")[Gilles Castel]
+- #link("https://ciechanow.ski/archives/")[Bartosz Ciechanowski]
+- #link("https://pudding.cool/")[The Pudding]
+- #link("https://bost.ocks.org/mike/")[Mike Bostock]
+- #link("https://macwright.com/")[Tom MacWright]
+- #link("https://a3nm.net/blog/archives.html")[a3nm]
+- #link("https://ncase.me")[Nick Casey]
+- #link("https://neal.fun")[Neal Agarwal]
+- #link("https://mark.stosberg.com/")[Mark Stosberg]
+- #link("https://jmsallan.netlify.app/")[Jose M Sallán]
+- #link("https://aatishb.com/articles/")[Aatish Bhatia]
+- #link("https://nathanrooy.github.io/")[Nathan]
+- #link("https://ayandas.me/")[Ayan Das]
+- #link("https://drhagen.com/")[David R Hagen]
+- #link("https://manualmeida.dev/")[Manu Martínez-Almeida]
