@@ -1,4 +1,5 @@
 #import "@preview/cetz:0.3.4": canvas, draw, angle
+#import "@preview/fletcher:0.5.8"
 
 #let math-font = "New Computer Modern Math"
 #let code-font = "JetBrains Mono"
